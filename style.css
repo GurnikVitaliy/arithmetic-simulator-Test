@@ -1,0 +1,18 @@
+#main {
+   width: auto;
+   display: flex;
+   justify-content: space-around;
+   background-color: black;
+   color: bisque;
+}
+
+
+.main__line {
+   width: 2px;
+   height: 200px;
+   background-color: aqua;
+}
+
+.main__negative {
+   color: crimson;
+}
